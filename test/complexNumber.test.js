@@ -1,6 +1,6 @@
 import {describe, expect, it} from '@jest/globals';
 
-import ComplexNumber from '../src/complexNumber';
+import ComplexNumber from '../src/complexNumber.js';
 
 const TWO_PI = Math.PI + Math.PI;
 

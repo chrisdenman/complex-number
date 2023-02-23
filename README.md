@@ -1,4 +1,4 @@
-# Complex Number 1.0.0
+# Complex Number 1.0.3
 
 A complex number class.
 
