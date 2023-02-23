@@ -1,4 +1,4 @@
-import ComplexNumberConfig from "./complexNumberConfig";
+import ComplexNumberConfig from "./complexNumberConfig.js";
 import Assertions from "@ceilingcat/assertions";
 
 const TWO_PI =  Math.PI + Math.PI;

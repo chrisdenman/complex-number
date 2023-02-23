@@ -4,7 +4,7 @@
     "node": ">=14.17.0"
   },
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A complex number class.",
   "main": "src/complexNumber.js",
   "module": "src/complexNumber.js",
