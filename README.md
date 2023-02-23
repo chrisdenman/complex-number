@@ -10,6 +10,10 @@ A complex number class.
 
 `npm run lint`
 
+## Version History
+
+See [Version History](./VERSIONS.md)
+
 ## Future Work
 
 1. Returning all roots (& logarithms)
